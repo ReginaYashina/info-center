@@ -1,1 +1,1 @@
-# info-center
+[https://reginayashina.github.io/info-center/](https://reginayashina.github.io/info-center/)
