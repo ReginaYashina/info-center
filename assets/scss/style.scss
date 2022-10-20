@@ -797,12 +797,12 @@ body {
     &:hover {
       box-shadow: 0 0 40px 40px #07C8C8 inset;
 
-      & .file__text {
+      & .form__file-text {
         color: #FFFFFF;
         transition: .3s;
       }
 
-      & .file__icon {
+      & .form__file-icon {
         fill: #FFFFFF;
         transition: .3s;
       }
